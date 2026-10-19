@@ -1,0 +1,18 @@
+[
+    {
+        "order_id": 881221,
+        "date": "2026-07-15 08:43:25",
+        "customer_name": "Simran Bajgai",
+        "customer_phone": "1323455678",
+        "customer_address": "toyohasi",
+        "items": [
+            {
+                "id": 4,
+                "name": "ほくほくジャガイモ",
+                "price": 150,
+                "qty": 1
+            }
+        ],
+        "total_price": 150
+    }
+]

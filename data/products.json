@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "新鮮なトマト",
+        "price": 350,
+        "category": "vegetables",
+        "description": "地元の農家で愛情込めて育てられた、オーガニックで新鮮なトマトです。",
+        "stock": 15,
+        "image": "tomato.jpg"
+    },
+    {
+        "id": 2,
+        "name": "もぎたてリンゴ",
+        "price": 500,
+        "category": "fruits",
+        "description": "甘くてシャキシャキした、ビタミン豊富な地元産のリンゴです。",
+        "stock": 5,
+        "image": "apple.jpg"
+    },
+    {
+        "id": 3,
+        "name": "完熟バナナ",
+        "price": 200,
+        "category": "fruits",
+        "description": "化学肥料を使用せずに栽培された、栄養満点で甘いバナナです。",
+        "stock": 10,
+        "image": "banana.jpg"
+    },
+    {
+        "id": 4,
+        "name": "ほくほくジャガイモ",
+        "price": 150,
+        "category": "vegetables",
+        "description": "毎日の料理に最適な、ほくほくとした食感の高品質なジャガイモです。",
+        "stock": 19,
+        "image": "potato.jpg"
+    }
+]
